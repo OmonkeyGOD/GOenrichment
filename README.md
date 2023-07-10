@@ -1,5 +1,5 @@
 # GOenrichment
-Perform GO enrichment analysis on genes present in specific scaffolds of L.elongisporus or genes in a gene list of interest.
+Perform GO enrichment analysis on genes present in specific scaffolds or genes in a gene list of interest for *Lodderomyces elongisporus*.
 # Prerequisite
 Perl 5 <br />
 Math::CDF <br />
